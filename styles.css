@@ -1,0 +1,21 @@
+body,
+html {
+  color: whitesmoke;
+  background: #000102;
+}
+
+.main {
+  padding: 10px;
+}
+
+.container {
+  display: flex;
+  max-width: 660px;
+  margin: auto;
+  flex-direction: column;
+}
+
+.panel {
+  padding: 6px;
+  border: 6px solid seashell;
+}
