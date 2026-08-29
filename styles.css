@@ -19,3 +19,22 @@ html {
   padding: 6px;
   border: 6px solid seashell;
 }
+
+.link {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.info {
+  width: 30%;
+}
+
+.test {
+  width: 65%;
+}
+
+.flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
